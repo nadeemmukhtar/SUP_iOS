@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "sup-bitmoji.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "talkBar-two.pdf",
+      "idiom" : "universal",
+      "resizing" : {
+        "cap-insets" : {
+          "bottom" : 11,
+          "left" : 4,
+          "right" : 4,
+          "top" : 10
+        },
+        "center" : {
+          "height" : 2,
+          "mode" : "stretch",
+          "width" : 1
+        },
+        "mode" : "9-part"
+      }
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

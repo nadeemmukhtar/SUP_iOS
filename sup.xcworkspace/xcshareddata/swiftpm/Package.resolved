@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ASCollectionView",
+        "repositoryURL": "https://github.com/apptekstudios/ASCollectionView.git",
+        "state": {
+          "branch": null,
+          "revision": "c730c2e63276cd42e15953a85a79ecda1d1b03e2",
+          "version": "1.2.2"
+        }
+      },
+      {
+        "package": "Facebook",
+        "repositoryURL": "https://github.com/facebook/facebook-ios-sdk",
+        "state": {
+          "branch": null,
+          "revision": "a3ef4451928249e18bb3ae5b7cb906134ed63b26",
+          "version": "7.1.1"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "aa7ff6f060d8f34d2c66a716aefff1a3bc9ef816",
+          "version": "5.5.2"
+        }
+      },
+      {
+        "package": "SDWebImageSwiftUI",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+        "state": {
+          "branch": null,
+          "revision": "9faad757866051879f5692987c96034e1c4ccd41",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftUIX",
+        "repositoryURL": "https://github.com/SwiftUIX/SwiftUIX",
+        "state": {
+          "branch": null,
+          "revision": "fffc2513f83a55b6dc78941347dba24003f1ee39",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

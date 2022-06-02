@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ASCollectionView",
+        "repositoryURL": "https://github.com/apptekstudios/ASCollectionView.git",
+        "state": {
+          "branch": null,
+          "revision": "91d85a3aec1bdc88fb285b3908ba036ba9d1dd09",
+          "version": "1.5.0"
+        }
+      },
+      {
+        "package": "QGrid",
+        "repositoryURL": "https://github.com/Q-Mobile/QGrid.git",
+        "state": {
+          "branch": null,
+          "revision": "804e59f8cb9f66b226685e9369fb82029742b83a",
+          "version": "0.1.4"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "39370d1af85734dffe0e3f89b389976da461be3f",
+          "version": "5.7.3"
+        }
+      },
+      {
+        "package": "SDWebImageSwiftUI",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+        "state": {
+          "branch": "master",
+          "revision": "728e0701e0ddc10d4dfcc90cd64bc763b28431ac",
+          "version": null
+        }
+      },
+      {
+        "package": "Grid",
+        "repositoryURL": "https://github.com/spacenation/swiftui-grid",
+        "state": {
+          "branch": "master",
+          "revision": "a3441f80bd01029507bc19e463e7c7208ffcf3f9",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftUIX",
+        "repositoryURL": "https://github.com/SwiftUIX/SwiftUIX",
+        "state": {
+          "branch": "master",
+          "revision": "02b20ea1ec9fb1d7af7596d461be2898f9be6371",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

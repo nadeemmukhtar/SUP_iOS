@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "onboarding-guestPass-iPhoneX.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

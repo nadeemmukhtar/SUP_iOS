@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "invite-guest.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
